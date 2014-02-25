@@ -1,7 +1,7 @@
 {
     "name": "boombox-audiosprite",
     "version": "0.1.1",
-    "description": "boombox.js compatible audio sprite generator.",
+    "description": "boombox-audiosprite is audio sprite generator that has compatibility with boombox.js.",
     "main": "lib/index.js",
     "bin": {
         "boombox-audiosprite": "bin/boombox-audiosprite.js"
