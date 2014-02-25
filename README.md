@@ -54,7 +54,7 @@ $ npm test
 
 # Sample
 
-```javascript
+```sh
 $ cd /Users/fkei/boombox.js/spec/media
 $ boombox-audiosprite -e ac3,caf,mp3,m4a *.wav
 
